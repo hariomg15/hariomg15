@@ -32,7 +32,7 @@
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hariom-gupta015/)  
 - 🐙 [GitHub](https://github.com/hariomg15)  
-- 📧 Email: hariomsci785@email.com  
+- 📧 Email: hariomsci785@gmail.com  
 
 ---
 
