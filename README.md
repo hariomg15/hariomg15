@@ -1,55 +1,73 @@
-# 👋 Hi, I'm Hariom.  
+# 👋 Hi, I'm Hariom Gupta
 
-🚀 Aspiring **AI/ML Engineer** | Passionate about Data Science, Machine Learning, and Deep Learning  
-
-## 🧑‍💻 About Me  
-- 🎓 Currently preparing to become a **Machine Learning Engineer**  
-- 🤖 Skilled in **Python, Pandas, NumPy, Scikit-learn, Gradio, Streamlit**  
-- 📊 Experience with projects in **Regression, Classification, Fraud Detection, and Computer Vision**  
-- 🌱 Learning **Deep Learning & Neural Networks**  
-- 💡 Strong interest in **AI model deployment & real-world applications**  
+🚀 Aspiring **AI/ML Engineer & Backend Developer** | Building scalable systems and intelligent applications
 
 ---
 
-## 🔬 My Projects  
-- 🏡 **House Price Prediction** – Linear Regression project predicting housing prices.  
-- 💳 **Credit Card Fraud Detection** – Logistic Regression with Gradio web app deployment.  
-- 🌱 **Plant Disease Detection** – Image classification model for crop health monitoring.  
+## 🧑‍💻 About Me
 
-👉 Check out my repositories for more!  
-
----
-
-## ⚡ Skills  
-- **Languages:** Python, SQL  
-- **ML Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Deep Learning:** TensorFlow, Keras (basic)  
-- **Deployment:** Gradio, Streamlit  
-- **Version Control:** Git, GitHub  
+* 🎓 Preparing to become a **Machine Learning Engineer**
+* 💻 Experience in **Java Backend Development (Spring Boot, REST APIs, Authentication)**
+* 🤖 Working with **Python, Machine Learning, and Model Deployment**
+* 🧠 Strong foundation in **Data Structures, OOP, and System Design**
+* 🌱 Currently learning **Deep Learning & Neural Networks**
+* ☁️ Interested in **AI systems that work in real-world production environments**
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hariom-gupta015/)  
-- 🐙 [GitHub](https://github.com/hariomg15)  
-- 📧 Email: hariomsci785@gmail.com  
+## 🔬 Projects
+
+### 🤖 AI / Machine Learning
+
+* 🏡 **House Price Prediction** – Linear Regression model predicting housing prices with data preprocessing & feature engineering.
+* 💳 **Credit Card Fraud Detection** – Logistic Regression model deployed using **Gradio Web App**.
+* 🌱 **Plant Disease Detection** – Image Classification (Computer Vision) model to detect crop diseases.
+
+### ⚙️ Backend / System Projects
+
+* 🌐 **Multithreaded Web Server (Java)** – Built a concurrent web server using Socket Programming and thread pools handling multiple client requests.
+* 📊 **Expense Tracker REST API (Spring Boot + MySQL + JWT)** – Developed secure backend APIs with authentication, layered architecture, and database integration.
+* 🎟️ **Ticket Booking System (Core Java OOP)** – Implemented booking, cancellation, and seat management with file handling.
+
+👉 Explore my repositories to see complete implementations!
 
 ---
 
-⭐️ *"I am building my journey step by step to become a strong AI/ML Engineer."*  
+## ⚡ Skills
 
+### Programming
 
-<!--
-**hariomg15/hariomg15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Languages:** Java, Python, SQL
 
-Here are some ideas to get you started:
+### Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Spring Boot, REST APIs, Hibernate (JPA), JWT Authentication**
+* Multithreading, OOP, Collections Framework
+* API Design & Database Integration
+
+### Machine Learning
+
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+* Regression, Classification, Data Preprocessing, Feature Engineering
+
+### Deep Learning
+
+* TensorFlow, Keras (Basics), Computer Vision
+
+### Deployment & Tools
+
+* Gradio, Streamlit
+* Git, GitHub
+* Basic Docker & Model Deployment
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/hariom-gupta015/](https://www.linkedin.com/in/hariom-gupta015/)
+* 🐙 GitHub: [https://github.com/hariomg15](https://github.com/hariomg15)
+* 📧 Email: [hariomsci785@gmail.com](mailto:hariomsci785@gmail.com)
+
+---
+
+⭐️ *“I don’t just build models — I build systems where models actually run.”*
