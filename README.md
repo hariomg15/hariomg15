@@ -64,9 +64,9 @@ me.say_hi()
 
 ```
 🔥 FastAPI        ████████████░░░░  75%
-🤖 AI / LLMs      ████░░░░░░░░░░░░  25%  ← Just Started!
+🤖 AI / LLMs      ████░░░░░░░░░░░░  25%  
 🧠 Deep Learning  ██████░░░░░░░░░░  40%
-☁️  Deployment    ███░░░░░░░░░░░░░  20%
+☁️  Deployment    █████████░░░░░░░  50%
 ```
 
 ---
@@ -99,9 +99,9 @@ me.say_hi()
 
 - [x] 🎓 Complete B.Tech CSE
 - [x] 📚 Learn Machine Learning
-- [ ] ⚡ Master FastAPI & Backend Development
-- [ ] 🤖 Build an AI-powered Project
-- [ ] ☁️ Deploy projects on Cloud
+- [x] ⚡ Master FastAPI & Backend Development
+- [x] 🤖 Build an AI-powered Project
+- [x] ☁️ Deploy projects on Cloud
 - [ ] 💼 Land my first Backend Developer Job
 
 ---
